@@ -22,7 +22,7 @@ To set up the project locally, follow these steps:
 ### Setup
 
 1. Clone the repository:
-git clone https://github.com/yourusername/viral-pilot-backend.git
+git clone 
 
 
 2. Navigate to the project directory:
